@@ -1,4 +1,4 @@
 # rdr
 Restaurant Decision Record.
 
-BecauseBecause even our food choices are Agile.
+Because even our food choices are Agile.
